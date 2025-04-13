@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjan Kumar</h1>
-<h3 align="center">I'm a passionate Flutter Developer focused on building beautiful, high-performance mobile applications for both Android and iOS. I love turning ideas into reality with clean code and intuitive user experiences.</h3>
+<p align="center">I'm a passionate <strong>Flutter Developer</strong> with over 2 years of experience building high-quality, scalable, and beautiful mobile apps for Android and iOS. I specialize in crafting smooth, performant UIs, integrating robust backend services, and delivering great user experiences.</p>
 
 - 🔭 I’m currently working on [CuDel](https://play.google.com/apps/internaltest/4701643820206578525) , [CuDel Business](https://play.google.com/apps/internaltest/4701689094701311153) , [JobsYahan](https://play.google.com/apps/internaltest/4701687068829527951)
 
@@ -8,10 +8,6 @@
 - 💬 Ask me about **Dart**
 
 - 📫 How to reach me **kranjan7417@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
