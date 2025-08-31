@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ranjan Kumar  
 
-**Mobile App Developer (Android & iOS)**  
+**Senior Mobile Application Developer (Android & iOS)**  
 
-I’m a passionate **Mobile App Developer** with 3+ years of experience building scalable, cross-platform mobile applications across **e-commerce, job search, and field service management domains**. Skilled in **Flutter, Dart, GetX, Firebase, REST APIs, CI/CD, and Clean Architecture**, I specialize in delivering **high-performance, user-centric mobile apps** that align with business goals.  
+I’m a passionate **Application Developer** with 3+ years of experience building scalable, cross-platform mobile applications across **e-commerce, job search, and field service management domains**. Skilled in **Flutter, Dart, GetX, Firebase, REST APIs, CI/CD, and Clean Architecture**, I specialize in delivering **high-performance, user-centric mobile apps** that align with business goals.  
 
 ---
 
