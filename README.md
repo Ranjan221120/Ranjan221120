@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Ranjan Kumar  
 
-**Senior Mobile Application Developer (Android & iOS)**  
+**Mobile Application Developer (Android & iOS)**  
 
-I’m a passionate **Application Developer** with 3+ years of experience building scalable, cross-platform mobile applications across **e-commerce, job search, and field service management domains**. Skilled in **Flutter, Dart, GetX, Firebase, REST APIs, CI/CD, and Clean Architecture**, I specialize in delivering **high-performance, user-centric mobile apps** that align with business goals.  
+I’m a passionate **Application Developer** with 3+ years of experience building scalable, cross-platform mobile applications across **e-commerce, Secure Government Verification App, and field service management domains**. Skilled in **Flutter, Dart, GetX, BloC, Firebase, REST APIs, CI/CD, and Clean Architecture**, I specialize in delivering **high-performance, user-centric mobile apps** that align with business goals.  
 
 ---
 
 ## 🔹 Tech Stack & Skills
 - **Languages:** Dart, Java, C, XML  
-- **Frameworks:** Flutter, GetX  
+- **Frameworks:** Flutter, GetX, BloC  
 - **Mobile Development Tools:** Android Studio, VS Code, Xcode, Google Play Console, App Store Connect  
 - **Backend & APIs:** RESTful APIs, Firebase (Firestore, Crashlytics, Analytics, Remote Config, Push Notifications)  
 - **Databases:** Drift, SharedPreferences  
@@ -21,7 +21,7 @@ I’m a passionate **Application Developer** with 3+ years of experience buildin
 
 ## 🔹 Featured Projects  
 
-### 📱 [WorCo](https://play.google.com/apps/internaltest/4700663719420522352)
+### 📱 [WorCo](https://play.google.com/store/apps/details?id=com.beelabs.worco&hl=en_IN)
 Flutter-based app used by field sales teams for task tracking, onsite attendance, and location tracking. Supervisors can assign tasks, monitor activities, and analyze performance.  
 
 **Tech:** Flutter, Dart, GetX, Firebase, REST APIs, Google Maps  
@@ -30,17 +30,18 @@ Flutter-based app used by field sales teams for task tracking, onsite attendance
 ---
 
 ### 🛒 E-Commerce Mobile App
-A two-app solution for on-demand services:
-- [CuDel](https://play.google.com/apps/internaltest/4701643820206578525): Browse and book services, make secure payments via Razorpay, track orders in real time.
-- [CuDel Business](https://play.google.com/apps/internaltest/4701689094701311153): Manage service listings, accept bookings, and track earnings.
+A three-app solution for on-demand services:
+- [CuDel](https://play.google.com/store/apps/details?id=com.beelabs.cudelc&hl=en_IN): Browse and book services, make secure payments via Razorpay, track orders in real time.
+- [CuDel Business](https://play.google.com/store/apps/details?id=com.beelabs.cudelb&hl=en_IN): Manage service listings, accept bookings, and track earnings.
+- [crystalicious](https://play.google.com/store/apps/details?id=com.app.crystalicious&hl=en_IN): Built using the Shopify eCommerce platform (Shopify storefront API), including product listing, cart & checkout, Razorpay integration, and optimized UI flows.
   
 **Tech:** Flutter, Dart, Razorpay, Firebase, REST APIs  
 **Highlights:** Implemented Clean Architecture, GetX state management, and CI/CD pipeline, Push notification.  
 
 ---
 
-### 🔍 [JobsYahan](https://play.google.com/apps/internaltest/4701687068829527951)
-A mobile platform connecting blue-collar workers (delivery staff, drivers, technicians) with employers. Workers can search and apply for jobs, while employers can post vacancies and track applications.
+### 🔍 [Exim Bank](https://play.google.com/store/apps/details?id=com.exim.exim_bank&hl=en_IN)
+A secure mobile application built for government use, enabling pensioners to verify their identity through document uploads and live video recording, supported by encrypted API workflows.
 
 **Tech:** Flutter, Dart, Firebase, REST APIs  
 **Highlights:** Push notifications, Google Maps integration.  
